@@ -48,9 +48,9 @@ Have a great flight and lots of laughter along the way!
 
 ## Screen Shots
 
-### Asking player name
+### Asking player name and aage
 
-![screen_shot](screen_shots/1728375636.png)
+![screen_shot](screen_shots/1728376293.png)
 
 ### Player books flight
 ![screen_shot](screen_shots/1728375747.png)
