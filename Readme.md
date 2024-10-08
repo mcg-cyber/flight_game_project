@@ -48,14 +48,23 @@ Have a great flight and lots of laughter along the way!
 
 ## Screen Shots
 
-### Asking player name and age
+### Asking player name
 
-![screen_shot](screen_shots/1726944899.png)
+![screen_shot](screen_shots/1728375636.png)
 
 ### Player books flight
-![screen_shot](screen_shots/1726944926.png)
+![screen_shot](screen_shots/1728375747.png)
 
-### Running the game
+### Payment method
 
-![screen_shot](screen_shots/1726944956.png)
-q
+![screen_shot](screen_shots/1728375844.png)
+
+
+### Payment method and highjack scenerio
+
+![screen_shot](screen_shots/1728375973.png)
+
+
+## Game ends
+
+![screen_shot](screen_shots/1728376058.png)
